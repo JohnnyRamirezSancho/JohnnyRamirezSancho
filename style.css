@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+  background: url(img/code.jpg) center center;
+}
+
+body{
+	padding:40px;
+	margin: 20px auto;
+    border-radius: 40px;
+	max-width:1200px;
+	font-family: sans-serif;
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+    color: #444;
+  }
