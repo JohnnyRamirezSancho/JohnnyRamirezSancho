@@ -1,0 +1,66 @@
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello" width="35"> I'm Johnny<br>Hello, World! <img src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/earth_africa.png" alt="World" width="35px"></h1>
+<p>
+  It is never too late to expand your knowledge.<br>
+  Self-taught in HTML, CSS and PHP, I have never believed that "You can't teach an old <em>cat</em> new tricks". :smile_cat:
+</p>
+
+<details>
+  <summary>
+    <h2><img src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" alt="It's me, smiling" width="20px"> About me
+  </summary>
+  <ul>
+    <li>:heart: I love writing code.</li>
+    <li>:muscle: My main characteristics: resilience, flexibility, ability to work in a team, continuous self-training and digital skills.</li>
+    <li>:school: Currently, training as "Junior Fullstack Developer" at Factoría F5.</li>
+    <li>:camera: Photoshop is my second favorite program (Notepad is the first).</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2><img src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/orange_book.png" alt="A book" width="20px"> Current stack</h2>
+  </summary>
+  <ul>
+    <li>
+      <img src="https://camo.githubusercontent.com/984b2a88651f862c502e3881c6fa5d27f077948241fe49684a0879cae28014e2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML 5" height="30px"> HTML 5
+    </li>
+    <li>
+      <img src="https://camo.githubusercontent.com/7894f44095e8df88e2c12b0f2c91441ca66d029cf10ae3c068362bb9e68d3df9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS 3" height="30px"> CSS 3
+    </li>
+    <li>
+      <img src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" alt="PHP" height="30px"> PHP
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2><img src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/memo.png" alt="A notepad" width="20px"> Contact me</h2>
+  </summary>
+  <ul>
+    <li>
+      :email: <a href="mailto:info@johnnyramirez.es" target="_blank">info@johnnyramirez.es</a>
+    </li>
+    <li>
+      :iphone: <a href="https://wa.me/34619739497" target="_blank">WhatsApp</a>
+    </li>
+    <li>
+      :phone: <a href="tel:34619739497" target="_blank">Or call me (maybe) <em>+34 619 73 94 97</em></a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2><img src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/chart_with_upwards_trend.png" alt="A statistical graph" width="20px"> Github stats</h2>
+  </summary>
+  <p>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JohnnyRamirezSancho&show_icons=true&count_private=true&theme=chalk" alt="Johnny Ramirez Sancho's Github Stats" width="450px"/></a>
+  </p>
+  <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyRamirezSancho&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="Johnny Ramirez Sancho languages stats" width="450px"/></p>
+  </p>
+  <p>
+    <a href="https://github.com/JohnnyRamirezSancho"><img src="https://activity-graph.herokuapp.com/graph?username=elegarmi&custom_title=johnnyramirezsancho's%20Contribution%20Graph&theme=react-dark" alt="Johnny Ramirez Sancho's Activity Graph"></a>
+  </p>
+</details>
